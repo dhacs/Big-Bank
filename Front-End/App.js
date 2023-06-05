@@ -157,15 +157,15 @@ function App() {
       <body>
         <nav class= "navbar">
         <div class="navbar-content">
-          <span class="navbar-text">CPS406 TMU BIG BANK ATM</span>
+          <span class="navbar-text">BIG BANK ATM</span>
           </div>
         </nav>
         <h1>
-          TMU BIG BANK!!
+          BIG BANK!!
         </h1>
         <div class = "container">
           <div id = "displayTest">
-            Welcome to TMU Bank! <br>
+            Welcome to BIG Bank! <br>
             </br> 
             Enter Card Number Here:
           </div>
