@@ -26,7 +26,7 @@ def submit():
     if state == 0:
           currentAccount = Account.get_user(acc, pin)
           if currentAccount:
-               return jsonify({"result": "Welcome to TMU Bank, " + currentAccount.name + "!"})
+               return jsonify({"result": "Welcome to Big Bank, " + currentAccount.name + "!"})
           else:
                return jsonify({"result": "Invalid Credentials!"}) 
     elif state == 1:
