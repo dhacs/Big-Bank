@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python and Node.js installed on your system.
-3. Set up the MySQL server and configure the necessary database schema and credentials, found in the SQL Readme
+3. Set up the MySQL server and configure the necessary database schema and credentials, found in the SQL Readme.
 4. Navigate to the project's root directory and install the required dependencies for both the frontend and backend components.
 5. Start the backend server by running the appropriate commands.
 6. Start the frontend development server by executing the corresponding command.
